@@ -7,10 +7,11 @@
 
 <!-- About -->
 
-## ::man_technologist: I'm **Carlos Rivera** - Full Stack Developer
+## :man_technologist: I'm **Carlos Rivera** - Full Stack Developer
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -28,6 +29,15 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 - [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-management-system): academic project for managing vehicle maintenance schedules
 - [Task Management System](https://github.com/scrivx/task-management-system): web application for organizing tasks and improving productivity
 - [Electronic Billing System (UBL 2.1)](https://github.com/scrivx/electronic-billing-system): system for generating electronic invoices following UBL 2.1 standards
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <div align="center">
