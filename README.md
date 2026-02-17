@@ -1,10 +1,19 @@
 <!-- Bienvenida -->
+<div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A8F7A7&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+</div>
+
 <!-- About -->
 
-## 👨‍💻 I'm <span style="color:#A8F7A7">Carlos Rivera</span> - Full Stack Developer
+## ::man_technologist: I'm **Carlos Rivera** - Full Stack Developer
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 Junior Full Stack Developer with experience building web applications using Django, JavaScript, and modern frontend frameworks. I enjoy developing APIs, working with databases, and creating functional user interfaces.
 
@@ -21,7 +30,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 - [Electronic Billing System (UBL 2.1)](https://github.com/scrivx/electronic-billing-system): system for generating electronic invoices following UBL 2.1 standards
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<div align="">
+<div align="center">
 
 ---
 
