@@ -1,13 +1,16 @@
 <!-- Bienvenida -->
-<div align="center">
+<img src="images/svg/header-svg.svg">
+  <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A8F7A7&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A8F7A7&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-</div>
+  </div>
+</img>
 
 <!-- About -->
 
 ## :man_technologist: I'm **Carlos Rivera** - Full Stack Developer
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -37,7 +40,6 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <div align="center">
