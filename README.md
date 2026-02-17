@@ -25,7 +25,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 
 #### :shipit: projects I'm maintaining
 
-- [Urbanization Management Platform](https://github.com/scrivx/urbanization-platform): web platform for managing urbanization operations
+- [Urbanization Management Platform](https://gesurb.up.railway.app/): web platform for managing urbanization operations
 - [Ticket Sales Platform](https://github.com/scrivx/ticket-sales-platform): web system for managing transportation tickets
 - [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-management-system): academic project for managing vehicle maintenance schedules
 - [Task Management System](https://github.com/scrivx/task-management-system): web application for organizing tasks and improving productivity
