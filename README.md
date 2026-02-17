@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Bienvenida -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A8F7A7&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B" alt="Typing SVG" /></a>
@@ -33,9 +32,6 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
   </a>
 
 </div>
-=======
-## ¡Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
->>>>>>> c86eb933e692416a9bf5f63ec5c6177aab957d97
 
 <!--
 **scrivx/scrivx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
