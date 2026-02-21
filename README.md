@@ -8,7 +8,7 @@
 
 
 <!-- About -->
-## :man_technologist: I'm **Carlos Rivera** - Full Stack Developer
+## :man_technologist: I'm [**Carlos Rivera Guadalupe**](https://scrivxdev.vercel.app/) - Full Stack Developer
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
