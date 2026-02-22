@@ -48,7 +48,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 ### 🎧 Currently Listening
 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fjudbvyufozzzgkxbxeshnajtm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fjudbvyufozzzgkxbxeshnajtm&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="250"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fjudbvyufozzzgkxbxeshnajtm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="250"/>
   </a>
 
 </div>
