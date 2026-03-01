@@ -6,9 +6,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A8F7A7&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div> -->
 
-
 <!-- About -->
+
 ## :man_technologist: I'm [**Carlos Rivera Guadalupe**](https://scrivxdev.vercel.app/) - Full Stack Developer
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -26,10 +27,10 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 #### :shipit: projects I'm maintaining
 
 - [Urbanization Management Platform](https://gesurb.up.railway.app/): web platform for managing urbanization operations
-- [Ticket Sales Platform](https://github.com/scrivx/ticket-sales-platform): web system for managing transportation tickets
-- [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-management-system): academic project for managing vehicle maintenance schedules
-- [Task Management System](https://github.com/scrivx/task-management-system): web application for organizing tasks and improving productivity
-- [Electronic Billing System (UBL 2.1)](https://github.com/scrivx/electronic-billing-system): system for generating electronic invoices following UBL 2.1 standards
+- [Ticket Sales Platform](https://github.com/scrivx/ticket-transport): web system for managing transportation tickets
+- [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic): academic project for managing vehicle maintenance schedules
+- [Task Management System](https://github.com/scrivx/auth-crud-django): web application for organizing tasks and improving productivity
+- [Electronic Billing System (UBL 2.1)](https://github.com/scrivx/conversor-ubl): system for generating electronic invoices following UBL 2.1 standards
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -38,7 +39,6 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <div align="center">
