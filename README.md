@@ -7,8 +7,6 @@
   </a>
 </div> -->
 
----
-
 ## 🧑‍💻 I'm [**Carlos Rivera Guadalupe**](https://scrivxdev.vercel.app/) — Full Stack Developer
 
 Junior Full Stack Developer with experience building web applications using Django, JavaScript, and modern frontend frameworks. I enjoy developing APIs, working with databases, and creating functional user interfaces.
@@ -16,6 +14,17 @@ Junior Full Stack Developer with experience building web applications using Djan
 Currently expanding my skills in TypeScript, Next.js, and MongoDB. Experienced in deploying applications using Vercel, Render, and Netlify and working with tools such as Docker, Git, and Postman.
 
 Fast learner, responsible, and team-oriented. Open to remote or onsite opportunities.
+
+
+### 🚀 Projects I'm Maintaining
+
+| Project | Description |
+|---|---|
+| [🏙️ Urbanization Management Platform](https://gesurb.up.railway.app/) | Web platform for managing urbanization operations |
+| [🎫 Ticket Sales Platform](https://github.com/scrivx/ticket-transport) | Web system for managing transportation tickets |
+| [🚗 Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic) | Academic project for managing vehicle maintenance schedules |
+| [✅ Task Management System](https://github.com/scrivx/auth-crud-django) | Web application for organizing tasks and improving productivity |
+| [🧾 Electronic Billing System (UBL 2.1)](https://github.com/scrivx/conversor-ubl) | System for generating electronic invoices following UBL 2.1 standards |
 
 ---
 
@@ -35,21 +44,9 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
 
----
 
-### 🚀 Projects I'm Maintaining
-
-| Project | Description |
-|---|---|
-| [🏙️ Urbanization Management Platform](https://gesurb.up.railway.app/) | Web platform for managing urbanization operations |
-| [🎫 Ticket Sales Platform](https://github.com/scrivx/ticket-transport) | Web system for managing transportation tickets |
-| [🚗 Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic) | Academic project for managing vehicle maintenance schedules |
-| [✅ Task Management System](https://github.com/scrivx/auth-crud-django) | Web application for organizing tasks and improving productivity |
-| [🧾 Electronic Billing System (UBL 2.1)](https://github.com/scrivx/conversor-ubl) | System for generating electronic invoices following UBL 2.1 standards |
-
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
@@ -60,7 +57,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=scrivx&theme=dark&background=000000&ring=A8F7A7&fire=A8F7A7&currStreakLabel=A8F7A7&sideLabels=ffffff&dates=888888&border=333333" />
-</div>
+</div> -->
 
 ---
 <!-- 
