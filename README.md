@@ -15,20 +15,22 @@ Currently expanding my skills in TypeScript, Next.js, and MongoDB. Experienced i
 
 Fast learner, responsible, and team-oriented. Open to remote or onsite opportunities.
 
-
 ### 🚀 Projects I'm Maintaining
 
-| Project | Description |
-|---|---|
-| [🏙️ Urbanization Management Platform](https://gesurb.up.railway.app/) | Web platform for managing urbanization operations |
-| [🎫 Ticket Sales Platform](https://github.com/scrivx/ticket-transport) | Web system for managing transportation tickets |
-| [🚗 Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic) | Academic project for managing vehicle maintenance schedules |
-| [✅ Task Management System](https://github.com/scrivx/auth-crud-django) | Web application for organizing tasks and improving productivity |
-| [🧾 Electronic Billing System (UBL 2.1)](https://github.com/scrivx/conversor-ubl) | System for generating electronic invoices following UBL 2.1 standards |
+| Project                                                                                     | Description                                                           |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Urbanization Management Platform](https://gesurb.up.railway.app/)                          | Web platform for managing urbanization operations                     |
+| [Ticket Sales Platform](https://github.com/scrivx/ticket-transport)                         | Web system for managing transportation tickets                        |
+| [Linksy](https://github.com/scrivx/linksy-app)                                              | Custom link shortening web application                                |
+| [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic) | Academic project for managing vehicle maintenance schedules           |
+| [Task Management System](https://github.com/scrivx/auth-crud-django)                        | Web application for organizing tasks and improving productivity       |
+| [Electronic Billing System (UBL 2.1)](https://github.com/scrivx/conversor-ubl)              | System for generating electronic invoices following UBL 2.1 standards |
 
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -45,6 +47,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
+</div>
 
 <!-- ---
 
@@ -60,7 +63,8 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 </div> -->
 
 ---
-<!-- 
+
+<!--
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -90,8 +94,6 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 </div>
 
 --- -->
-
-
 
 <!--
 **scrivx/scrivx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
