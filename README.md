@@ -20,7 +20,7 @@ Fast learner, responsible, and team-oriented. Open to remote or onsite opportuni
 | Project                                                                                     | Description                                                           |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Urbanization Management Platform](https://gesurb.up.railway.app/)                          | Web platform for managing urbanization operations                     |
-| [Salud Laboris Laboratory](https://github.com/scrivx/salud-laboris-web)                     | Web platform for managing salud laboratory operations                 |
+| [Salud Laboris Laboratory](https://salud-laboris-web.vercel.app/)                           | Web platform for managing salud laboratory operations                 |
 | [Ticket Sales Platform](https://github.com/scrivx/ticket-transport)                         | Web system for managing transportation tickets                        |
 | [Linksy](https://github.com/scrivx/linksy-app)                                              | Custom link shortening web application                                |
 | [Fleet Maintenance Management System](https://github.com/scrivx/fleet-maintenance-academic) | Academic project for managing vehicle maintenance schedules           |
