@@ -35,16 +35,75 @@ infra      →  Docker · Vercel · Render · Railway · Nginx
 
 ### projects
 
-| repo                                                                      | description                        | stack                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [salud-laboris-web](https://salud-laboris-web.vercel.app/)                | Clinical laboratory web platform   | ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)                                                                                 |
-| [lms-platform](https://demo-rivisig.vercel.app/)                          | LMS for RIVISIG Consultores        | ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS) |
-| [ticket-transport](https://github.com/scrivx/ticket-transport)            | Transportation ticket sales system | ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)                   |
-| [gesurb](https://gesurb.up.railway.app/)                                  | Urbanization management platform   | ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)                                                                                 |
-| [linksy-app](https://github.com/scrivx/linksy-app)                        | Custom URL shortener               | ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)                                                                                                                                                                             |
-| [conversor-ubl](https://github.com/scrivx/conversor-ubl)                  | Electronic invoicing UBL 2.1       | ![Go](https://img.shields.io/badge/-Go-000?&logo=Go) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)                                                                                                |
-| [fleet-maintenance](https://github.com/scrivx/fleet-maintenance-academic) | Vehicle maintenance scheduler      | ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)                                                                                       |
-| [auth-crud-django](https://github.com/scrivx/auth-crud-django)            | Task manager with auth             | ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)                                                                                                                                                                 |
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://salud-laboris-web.vercel.app/"><b>salud-laboris-web</b></a>
+      <br/><sub>Clinical laboratory web platform</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://demo-rivisig.vercel.app/"><b>lms-platform</b></a>
+      <br/><sub>LMS for RIVISIG Consultores</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/scrivx/ticket-transport"><b>ticket-transport</b></a>
+      <br/><sub>Transportation ticket sales system</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Django-000?&logo=Django" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+      <img src="https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://gesurb.up.railway.app/"><b>gesurb</b></a>
+      <br/><sub>Urbanization management platform</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Laravel-000?&logo=Laravel" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/scrivx/linksy-app"><b>linksy-app</b></a>
+      <br/><sub>Custom URL shortener</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Go-000?&logo=Go" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/scrivx/conversor-ubl"><b>conversor-ubl</b></a>
+      <br/><sub>Electronic invoicing UBL 2.1</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Go-000?&logo=Go" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/scrivx/fleet-maintenance-academic"><b>fleet-maintenance</b></a>
+      <br/><sub>Vehicle maintenance scheduler</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Java-000?&logo=openjdk" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/scrivx/auth-crud-django"><b>auth-crud-django</b></a>
+      <br/><sub>Task manager with auth</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Django-000?&logo=Django" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/><br/>
+      <a href="https://github.com/scrivx?tab=repositories">→ view all repos</a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
