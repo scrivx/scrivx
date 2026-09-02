@@ -45,7 +45,7 @@ infra      →  Docker · Vercel · Render · Railway · Nginx
       <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://demo-rivisig.vercel.app/"><b>lms-platform</b></a>
+      <a href="https://rivisig.com/"><b>lms-platform</b></a>
       <br/><sub>LMS for RIVISIG Consultores</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" />
